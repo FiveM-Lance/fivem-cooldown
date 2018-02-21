@@ -1,7 +1,8 @@
-/priority - Starts a priority cooldown
+# Commands
+- /priority - Starts a priority cooldown
 
-/inprogress - States that there is a priority in progress
+- /inprogress - States that there is a priority in progress
 
-/onhold - States that there is a priority on hold
+- /onhold - States that there is a priority on hold
 
-/resetpcd- Cancels a priority timer.
+- /resetpcd- Cancels a priority timer.
